@@ -1,8 +1,8 @@
 A FULL RESPONSIVE USER FRIENDLY TEXT TO IMAGE AI
-FRONT-END:REACT.JS
-BACK-END:NODR.NS
-API:openAI
-storing media: cloudinary
+FRONT-END:REACT.JS<br>
+BACK-END:NODR.NS<br>
+API:openAI<br>
+storing media: cloudinary<br>
 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/92365477/215885091-b76bcf7f-5411-4c3f-bdf4-f5df787ef4cf.png)
