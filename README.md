@@ -3,7 +3,7 @@ FRONT-END:REACT.JS<br>
 BACK-END:NODE.JS<br>
 API:openAI<br>
 storing media: cloudinary<br>
-PS: i could not deploy because of the sanctions so i decided to make a preview (i used a vpn)
+PS: i could not deploy because of the sanctions so i decided to make a preview 
 
 
 https://user-images.githubusercontent.com/92365477/216044133-88048aaa-95a7-4e05-8426-02f93d5cdaca.mp4
